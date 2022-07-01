@@ -1,0 +1,4 @@
+linha1
+linha2
+linha3
+estes são os dados do arquivo
